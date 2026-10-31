@@ -13,7 +13,7 @@ Paste a suspicious SMS, WhatsApp message, UPI collect request, banking alert, em
 
 > *Before you Click, Pay, Share, or Trust — Check with your Digital Safety Co-pilot.*
 
-**Team Hayagreeva** · YUKTIMANTHAN 2.0 Hackathon
+**Team "NURAL NINJAS"** · 
 
 ---
 
