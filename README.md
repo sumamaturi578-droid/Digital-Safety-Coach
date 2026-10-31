@@ -244,13 +244,13 @@ Sudarshan-Kavach/
 
 ---
 
-## 👥 Team Hayagreeva
+## 👥 Team nexus ninjas
 
-Built for **YUKTIMANTHAN 2.0**:
-- Prateek Deshpande
-- Adithi D S
-- K Aasritha Vardhan
-- Satvik Pandurangi
+Built for **MUCHAKARLA HEMANTH KUMAR**:
+- MATURI SUMA VALLIKA 
+- BURIDI HARI CHARAN NATH
+- KORADA KAVYA SRI 
+
 
 ## 📄 License
 
